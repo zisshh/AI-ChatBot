@@ -1,5 +1,5 @@
 
-# 🤖 HCL Internal Assistant Chatbot
+# 🤖 Assistant Chatbot
 
 A local AI-powered chatbot that uses Cohere for response generation and ChromaDB for knowledge retrieval from your internal `.txt` files.
 
