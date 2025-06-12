@@ -15,9 +15,6 @@ chatbott-main/
 ├── requirements.txt # Python dependencies
 └── README.md # This file
 
-yaml
-Copy
-Edit
 
 ---
 
